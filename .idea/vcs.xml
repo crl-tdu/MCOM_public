@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AD5754R" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DAC-HAT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/f7_enc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/f7_simple_udp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mbed" vcs="Git" />
+  </component>
+</project>
